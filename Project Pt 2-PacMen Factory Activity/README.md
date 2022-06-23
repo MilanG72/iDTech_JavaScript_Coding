@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In this PacMen Factory Activity Project, I created 2 buttons on a webpage that add pacman each time you click the add pacman button. If you hit the start game button many times, it makes the pacmans move faster. 
